@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\trackmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:trackmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D79EB1A-F2D3-4861-A390-0EE8207DDC99}|..\\Shop.Service\\Store.Service.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.service\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D79EB1A-F2D3-4861-A390-0EE8207DDC99}|..\\Shop.Service\\Store.Service.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81F5E99-1927-4E78-8AD3-636EF08202D3}|..\\Shop.Data\\Store.Data.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.data\\clothingitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81F5E99-1927-4E78-8AD3-636EF08202D3}|..\\Shop.Data\\Store.Data.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.data\\migrations\\20260315213928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E064A9B-BA6D-48EF-850C-E429A3DE5329}|..\\Shop.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.core\\services\\iclothingitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E064A9B-BA6D-48EF-850C-E429A3DE5329}|..\\Shop.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.core\\repositories\\iclothingitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E064A9B-BA6D-48EF-850C-E429A3DE5329}|..\\Shop.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.core\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E064A9B-BA6D-48EF-850C-E429A3DE5329}|..\\Shop.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.core\\entities\\clothingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E064A9B-BA6D-48EF-850C-E429A3DE5329}|..\\Shop.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.core\\entities\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\entities\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:entities\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\controllers\\clothescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:controllers\\clothescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\clothingstoreapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E96AC4-AA30-42BF-8553-7F093270E09A}|ClothingStoreApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D79EB1A-F2D3-4861-A390-0EE8207DDC99}|..\\Shop.Service\\Store.Service.csproj|c:\\users\\user\\desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\shop.service\\services\\iclothingitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClothingItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Data\\ClothingItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Data\\ClothingItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Data\\ClothingItemRepository.cs",
+              "RelativeToolTip": "..\\Shop.Data\\ClothingItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:32:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\JwtService.cs",
+              "RelativeToolTip": "..\\Shop.Service\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:17:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\JwtToken.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Service\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\JwtToken.cs",
+              "RelativeToolTip": "..\\Shop.Service\\JwtToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:19:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T12:53:00.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\TrackMiddleware.cs",
+              "RelativeDocumentMoniker": "TrackMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\TrackMiddleware.cs",
+              "RelativeToolTip": "TrackMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:48.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:49.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClothingItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Repositories\\IClothingItemRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Core\\Repositories\\IClothingItemRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Repositories\\IClothingItemRepository.cs",
+              "RelativeToolTip": "..\\Shop.Core\\Repositories\\IClothingItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:51:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T16:54:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClothingItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Services\\IClothingItemServices.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Core\\Services\\IClothingItemServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Services\\IClothingItemServices.cs",
+              "RelativeToolTip": "..\\Shop.Core\\Services\\IClothingItemServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:51:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260315213928_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Data\\Migrations\\20260315213928_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Data\\Migrations\\20260315213928_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Data\\Migrations\\20260315213928_InitialCreate.cs",
+              "RelativeToolTip": "..\\Shop.Data\\Migrations\\20260315213928_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:51:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Core\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\Orders.cs",
+              "RelativeToolTip": "..\\Shop.Core\\Entities\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\Clients.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Core\\Entities\\Clients.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\Clients.cs",
+              "RelativeToolTip": "..\\Shop.Core\\Entities\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:53.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Entities\\JwtToken.cs",
+              "RelativeDocumentMoniker": "Entities\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Entities\\JwtToken.cs",
+              "RelativeToolTip": "Entities\\JwtToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClothesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\ClothesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClothesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\ClothesController.cs",
+              "RelativeToolTip": "Controllers\\ClothesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:48:07.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClothingItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\ClothingItem.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Core\\Entities\\ClothingItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Core\\Entities\\ClothingItem.cs",
+              "RelativeToolTip": "..\\Shop.Core\\Entities\\ClothingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:47:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\ClothingStoreApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:45:14.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClothingItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\Services\\IClothingItemServices.cs",
+              "RelativeDocumentMoniker": "..\\Shop.Service\\Services\\IClothingItemServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05E4\u05EA c#\\\u05E9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Shop.Service\\Services\\IClothingItemServices.cs",
+              "RelativeToolTip": "..\\Shop.Service\\Services\\IClothingItemServices.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:13:41.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
